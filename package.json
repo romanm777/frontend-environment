@@ -1,0 +1,20 @@
+{
+  "name": "folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axis": "^0.6.1",
+    "browser-sync": "^2.12.3",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.1.0",
+    "gulp-stylus": "^2.3.1",
+    "lost": "^6.7.2",
+    "nib": "^1.1.0"
+  }
+}
